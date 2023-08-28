@@ -13,8 +13,10 @@ public class selectMethod extends javax.swing.JFrame {
 
     public selectMethod() {
         initComponents();
-                setExtendedState(JFrame.MAXIMIZED_BOTH); /*** To stay maximized the jFrame***/
+                setExtendedState(JFrame.MAXIMIZED_BOTH); /*** To stay maximized the jFrame ***/
 
+                
+                
        
     }
     
